@@ -1,6 +1,6 @@
 // UITableViewDelegate
 // Table view delegate
-//
+// tableViewDelegate
 // Completion Shortcut:tableViewDelegate
 // Platform: iOS
 // Language: Objective-C
