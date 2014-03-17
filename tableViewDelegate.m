@@ -1,7 +1,7 @@
 // UITableViewDelegate
 // Table view delegate
 // tableViewDelegate
-// Completion Shortcut:tableViewDelegate
+// Completion Shortcut:myTable
 // Platform: iOS
 // Language: Objective-C
 // Completion Scope: Function or Method
